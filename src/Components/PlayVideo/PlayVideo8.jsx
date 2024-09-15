@@ -38,12 +38,12 @@ const PlayVideo8 = () => {
             <p>Channel for tech</p>
             <p>We reviewed tesla chargers</p>
             <hr />
-            <h4>130 Comments</h4>
+            <h4>13K Comments</h4>
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Bob <span>1 day ago</span></h3>
+                    <p>Teslas are overhyped</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -58,24 +58,8 @@ const PlayVideo8 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
-                    <div className='comment-action'>
-                        <img src={like} alt="" />
-                        <span>244</span>
-                        <img src={dislike} alt="" />
-                        
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div className='comment'>
-                <img src={user_profile} alt="" />
-                <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Goggie<span>1 day ago</span></h3>
+                    <p>Big Fan Mark!!!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -90,11 +74,11 @@ const PlayVideo8 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Adrian <span>1 day ago</span></h3>
+                    <p>This happened with my car!!!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>245</span>
                         <img src={dislike} alt="" />
                         
 
@@ -106,11 +90,27 @@ const PlayVideo8 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Moe Lester <span>1 day ago</span></h3>
+                    <p>Missed me??</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>4K</span>
+                        <img src={dislike} alt="" />
+                        
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Madara uchiha <span>1 day ago</span></h3>
+                    <p>Love from uchiha clan!! </p>
+                    <div className='comment-action'>
+                        <img src={like} alt="" />
+                        <span>69</span>
                         <img src={dislike} alt="" />
                         
 

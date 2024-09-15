@@ -54,13 +54,13 @@ const Feed = () => {
         <img src={thumbnail7} alt="" />
         <h2>Daily Hacks </h2>
         <h3>5 Minute Crafts</h3>
-        <p>15k views - 2 days ago</p>
+        <p>30M Views - 1 Month ago</p>
     </Link>
     <Link to={`video8/20/4528`}  className='card'>
         <img src={thumbnail8} alt="" />
         <h2> Tesla Chargers</h2>
         <h3>Mkbhd</h3>
-        <p>15k views - 2 days ago</p>
+        <p>900K views - 1 day ago</p>
     </Link>
     <div className='card'>
         <img src={thumbnail1} alt="" />
