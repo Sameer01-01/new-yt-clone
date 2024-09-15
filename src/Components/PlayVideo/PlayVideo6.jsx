@@ -12,15 +12,15 @@ const PlayVideo6 = () => {
   return (
     <div className='play-video'>
         <video src={video2} controls autoPlay muted ></video>
-        <h3>Best Youtube Channel to learn web dev</h3>
+        <h3>Best stun grenade</h3>
         <div className="play-video-info">
             <p>
-                1525 Views &bull; 2 days ago 
+                2.3M Views &bull; 1 week ago 
             </p>
 
             <div>
-                <span><img src={like} alt="" />125</span>
-                <span><img src={dislike} alt="" />1</span>
+                <span><img src={like} alt="" />55K</span>
+                <span><img src={dislike} alt="" />3K</span>
                 <span><img src={share} alt="" />Share</span>
                 <span><img src={save} alt="" />Save</span>
             </div>
@@ -29,14 +29,14 @@ const PlayVideo6 = () => {
         <div className="publisher">
             <img src={jack} alt="" />
             <div>
-                <p>Hello world</p>
-                <span>1M Subscribers</span>
+                <p>DrDisrespect</p>
+                <span>5M Subscribers</span>
             </div>
             <button>Subscribe</button>
         </div>
         <div className="vid-description">
             <p>Channel for gaming</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum, reiciendis ex. Ex deleniti pariatur rem unde quae cum, similique tenetur inventore fuga soluta quidem beatae delectus blanditiis cumque excepturi officia!</p>
+            <p>Lets CSGOooooo</p>
             <hr />
             <h4>130 Comments</h4>
             <div className='comment'>

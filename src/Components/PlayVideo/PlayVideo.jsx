@@ -5,22 +5,22 @@ import like from '../../assets/like.png'
 import dislike from '../../assets/dislike.png'
 import share from '../../assets/share.png'
 import save from '../../assets/save.png'
-import jack from '../../assets/jack.png'
+import jack from '../../assets/valo.png'
 import user_profile from '../../assets/user_profile.jpg'
 
 const PlayVideo = () => {
   return (
     <div className='play-video'>
         <video src={video1} controls autoPlay muted ></video>
-        <h3>Best Youtube Channel to learn web dev</h3>
+        <h3>Valorant Gameplay Edit</h3>
         <div className="play-video-info">
             <p>
-                1525 Views &bull; 2 days ago 
+                152K Views &bull; 5 days ago 
             </p>
 
             <div>
-                <span><img src={like} alt="" />125</span>
-                <span><img src={dislike} alt="" />1</span>
+                <span><img src={like} alt="" />12K</span>
+                <span><img src={dislike} alt="" />532</span>
                 <span><img src={share} alt="" />Share</span>
                 <span><img src={save} alt="" />Save</span>
             </div>
@@ -29,21 +29,21 @@ const PlayVideo = () => {
         <div className="publisher">
             <img src={jack} alt="" />
             <div>
-                <p>Hello world</p>
+                <p>Valorant</p>
                 <span>1M Subscribers</span>
             </div>
             <button>Subscribe</button>
         </div>
         <div className="vid-description">
-            <p>Channel for gaming</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum, reiciendis ex. Ex deleniti pariatur rem unde quae cum, similique tenetur inventore fuga soluta quidem beatae delectus blanditiis cumque excepturi officia!</p>
+            <p>This is the official channel of Valorant.</p>
+            <p>Stay tuned for the next update which will be out soon!!</p>
             <hr />
-            <h4>130 Comments</h4>
+            <h4>508 Comments</h4>
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Karuana <span>12 hours ago</span></h3>
+                    <p>We need  a Jett buff</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -58,11 +58,43 @@ const PlayVideo = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Brimstone<span>1 day ago</span></h3>
+                    <p>Clove is a girl not a transgender</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>192</span>
+                        <img src={dislike} alt="" />
+                        
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>ValoSucks <span>1 day ago</span></h3>
+                    <p>Cant wait for the new update!!</p>
+                    <div className='comment-action'>
+                        <img src={like} alt="" />
+                        <span>130</span>
+                        <img src={dislike} alt="" />
+                        
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Moe Lester <span>1 day ago</span></h3>
+                    <p>Read my name</p>
+                    <div className='comment-action'>
+                        <img src={like} alt="" />
+                        <span>100</span>
                         <img src={dislike} alt="" />
                         
 
@@ -75,42 +107,10 @@ const PlayVideo = () => {
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <p>Delete Breeze</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
-                        <img src={dislike} alt="" />
-                        
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div className='comment'>
-                <img src={user_profile} alt="" />
-                <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
-                    <div className='comment-action'>
-                        <img src={like} alt="" />
-                        <span>244</span>
-                        <img src={dislike} alt="" />
-                        
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div className='comment'>
-                <img src={user_profile} alt="" />
-                <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
-                    <div className='comment-action'>
-                        <img src={like} alt="" />
-                        <span>244</span>
+                        <span>40</span>
                         <img src={dislike} alt="" />
                         
 
