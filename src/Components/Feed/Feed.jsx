@@ -30,13 +30,13 @@ const Feed = () => {
         <img src={thumbnail3} alt="" />
         <h2>I Quit </h2>
         <h3>Mr Beast</h3>
-        <p>15k views - 2 days ago</p>
+        <p>5M views - 3 days ago</p>
     </Link>
     <Link to={`video4/20/4524`} className='card'>
         <img src={thumbnail4} alt="" />
         <h2> Diamonds - Rihanna</h2>
         <h3>Rihanna</h3>
-        <p>15k views - 2 days ago</p>
+        <p>896M views - 1 month ago</p>
     </Link>
     <Link to={`video5/20/4525`}  className='card'>
         <img src={thumbnail5} alt="" />

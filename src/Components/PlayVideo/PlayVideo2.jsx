@@ -42,8 +42,8 @@ const PlayVideo2 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Jack <span>1 day ago</span></h3>
+                    <p>Samsung Better</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -58,24 +58,8 @@ const PlayVideo2 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
-                    <div className='comment-action'>
-                        <img src={like} alt="" />
-                        <span>244</span>
-                        <img src={dislike} alt="" />
-                        
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div className='comment'>
-                <img src={user_profile} alt="" />
-                <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Olivia <span>1 day ago</span></h3>
+                    <p>Samsung Better</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -90,8 +74,8 @@ const PlayVideo2 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Oggy <span>1 day ago</span></h3>
+                    <p>Samsung Better</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -106,8 +90,24 @@ const PlayVideo2 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Moe Lester <span>3 days ago</span></h3>
+                    <p>Samsung Better</p>
+                    <div className='comment-action'>
+                        <img src={like} alt="" />
+                        <span>4K</span>
+                        <img src={dislike} alt="" />
+                        
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>Jacky <span>1 day ago</span></h3>
+                    <p>Samsung Better</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
