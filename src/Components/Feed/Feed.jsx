@@ -72,51 +72,51 @@ const Feed = () => {
     </Link>
     <div className='card'>
         <img src={thumbnail9} alt="" />
-        <h2>Valorant Gameplay Edit </h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>Easy French Toast </h2>
+        <h3>Cooking with Sameer</h3>
+        <p>3M views - 1 year ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail10} alt="" />
-        <h2>Weekend and iPhone 16</h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>Pasta and Pizza Easy recepie</h2>
+        <h3>Cooking with Sameer</h3>
+        <p>1M views - 1 Month ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail11} alt="" />
-        <h2>I Quit</h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>My news channel - pewdiepie</h2>
+        <h3>Pewdiepie</h3>
+        <p>658K views - 2 years ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail12} alt="" />
-        <h2>Diamonds - Rihanna </h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>Top 10 UFC moments </h2>
+        <h3>UFC</h3>
+        <p>1M views - 1 week ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail13} alt="" />
-        <h2>STAY - Justin Bieber </h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>Nature 4K </h2>
+        <h3>Wildlife videos</h3>
+        <p>45K views - 1 Month ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail14} alt="" />
-        <h2>Best stun grenade </h2>
-        <h3>channel name</h3>
+        <h2>Best ufc moments </h2>
+        <h3>Ralph</h3>
         <p>2.3M views - 1 Week ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail15} alt="" />
-        <h2>Daily Hacks </h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>MrBeast Donated to speed </h2>
+        <h3>Goofy</h3>
+        <p>1.2M views - 2 weeks ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail16} alt="" />
-        <h2>Mkbhd </h2>
-        <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <h2>Logan Paul WWE best moments </h2>
+        <h3>WWE</h3>
+        <p>1.5M views - 5 days ago</p>
     </div>
     
 
