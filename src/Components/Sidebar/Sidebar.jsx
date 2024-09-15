@@ -12,9 +12,9 @@ import blogs from '../../assets/blogs.png';
 import news from '../../assets/news.png';
 import jack from '../../assets/jack.jpeg';
 import simon from '../../assets/simon.png';
-import tom from '../../assets/tom.png';
-import megan from '../../assets/megan.png';
-import cameron from '../../assets/cameron.png';
+import tom from '../../assets/tom.jpg';
+import megan from '../../assets/megan.jpg';
+import cameron from '../../assets/cameron.jpg';
 
 const Sidebar = ({ sidebar }) => {
   return (
