@@ -8,6 +8,14 @@ import thumbnail5 from '../../assets/thumbnail5.jpg'
 import thumbnail6 from '../../assets/thumbnail6.jpg'
 import thumbnail7 from '../../assets/thumbnail7.jpg'
 import thumbnail8 from '../../assets/thumbnail8.jpg'
+import thumbnail9 from '../../assets/thumbnail9.jpg'
+import thumbnail10 from '../../assets/thumbnail10.jpg'
+import thumbnail11 from '../../assets/thumbnail11.jpg'
+import thumbnail12 from '../../assets/thumbnail12.jpg'
+import thumbnail13 from '../../assets/thumbnail13.jpg'
+import thumbnail14 from '../../assets/thumbnail14.jpg'
+import thumbnail15 from '../../assets/thumbnail15.jpg'
+import thumbnail16 from '../../assets/thumbnail16.jpg'
 import { Link } from 'react-router-dom'
 
 
@@ -63,49 +71,49 @@ const Feed = () => {
         <p>900K views - 1 day ago</p>
     </Link>
     <div className='card'>
-        <img src={thumbnail1} alt="" />
+        <img src={thumbnail9} alt="" />
         <h2>Valorant Gameplay Edit </h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail2} alt="" />
+        <img src={thumbnail10} alt="" />
         <h2>Weekend and iPhone 16</h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail3} alt="" />
+        <img src={thumbnail11} alt="" />
         <h2>I Quit</h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail4} alt="" />
+        <img src={thumbnail12} alt="" />
         <h2>Diamonds - Rihanna </h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail5} alt="" />
+        <img src={thumbnail13} alt="" />
         <h2>STAY - Justin Bieber </h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail6} alt="" />
+        <img src={thumbnail14} alt="" />
         <h2>Best stun grenade </h2>
         <h3>channel name</h3>
         <p>2.3M views - 1 Week ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail7} alt="" />
+        <img src={thumbnail15} alt="" />
         <h2>Daily Hacks </h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
     </div>
     <div className='card'>
-        <img src={thumbnail8} alt="" />
+        <img src={thumbnail16} alt="" />
         <h2>Mkbhd </h2>
         <h3>channel name</h3>
         <p>15k views - 2 days ago</p>
