@@ -4,7 +4,7 @@ import { Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home/Home.jsx';
 import Video from './Pages/Video/Video.jsx';
 import { useState } from 'react';
-import Video2 from './Pages/Video/video2.jsx';
+import Video2 from './Pages/Video/Video2.jsx';
 import Video3 from './Pages/Video/Video3.jsx';
 import Video4 from './Pages/Video/Video4.jsx';
 import Video5 from './Pages/Video/Video5.jsx';
