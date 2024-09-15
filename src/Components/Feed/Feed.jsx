@@ -96,7 +96,7 @@ const Feed = () => {
         <img src={thumbnail6} alt="" />
         <h2>Best stun grenade </h2>
         <h3>channel name</h3>
-        <p>15k views - 2 days ago</p>
+        <p>2.3M views - 1 Week ago</p>
     </div>
     <div className='card'>
         <img src={thumbnail7} alt="" />
