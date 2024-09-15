@@ -42,11 +42,11 @@ const PlayVideo5 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Jack harris <span>1 day ago</span></h3>
+                    <p>Love you justin!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>25</span>
                         <img src={dislike} alt="" />
 
 
@@ -58,27 +58,11 @@ const PlayVideo5 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Omega<span>1 day ago</span></h3>
+                    <p>Superb one!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
-                        <img src={dislike} alt="" />
-                        
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div className='comment'>
-                <img src={user_profile} alt="" />
-                <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
-                    <div className='comment-action'>
-                        <img src={like} alt="" />
-                        <span>244</span>
+                        <span>44</span>
                         <img src={dislike} alt="" />
                         
 
@@ -90,11 +74,11 @@ const PlayVideo5 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>nexus <span>1 day ago</span></h3>
+                    <p>Listening on loop!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>4</span>
                         <img src={dislike} alt="" />
                         
 
@@ -106,11 +90,27 @@ const PlayVideo5 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium, mollitia?</p>
+                    <h3>Moe Lester <span>1 day ago</span></h3>
+                    <p>Hello justin</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>4K</span>
+                        <img src={dislike} alt="" />
+                        
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>joker <span>1 day ago</span></h3>
+                    <p>give him a grammy already!!</p>
+                    <div className='comment-action'>
+                        <img src={like} alt="" />
+                        <span>55</span>
                         <img src={dislike} alt="" />
                         
 

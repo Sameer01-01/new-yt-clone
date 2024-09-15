@@ -42,13 +42,13 @@ const Feed = () => {
         <img src={thumbnail5} alt="" />
         <h2>STAY - Justin Bieber</h2>
         <h3>Justin Bieber</h3>
-        <p>15k views - 2 days ago</p>
+        <p>1.1B views - 1 year ago</p>
     </Link>
     <Link to={`video6/20/4526`}  className='card'>
         <img src={thumbnail6} alt="" />
         <h2>Best stun grenade </h2>
         <h3>DrDisrespect</h3>
-        <p>15k views - 2 days ago</p>
+        <p>2.3M views - 1 week ago</p>
     </Link>
     <Link to={`video7/20/4527`}  className='card'>
         <img src={thumbnail7} alt="" />
