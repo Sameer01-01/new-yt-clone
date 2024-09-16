@@ -1,5 +1,5 @@
 //import React from 'react'
-import PlayVideo12 from "../../Components/PlayVideo/Playvideo12"
+import PlayVideo12 from "../../Components/PlayVideo/PlayVideo12"
 const Video12 = () => {
   return (
     <div className='play-container'>
