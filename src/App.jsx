@@ -12,6 +12,7 @@ import Video5 from './Pages/Video/Video5.jsx';
 import Video6 from './Pages/Video/Video6.jsx';
 import Video7 from './Pages/Video/Video7.jsx';
 import Video8 from './Pages/Video/Video8.jsx';
+import Video9 from './Pages/Video/Video9.jsx';
 
 const App = () => {
   const [sidebar, setSidebar] = useState(true); // Define state for sidebar
@@ -28,7 +29,8 @@ const App = () => {
         <Route path='/video5/:categoryId/:videoId' element={<Video5 />} /> 
         <Route path='/video6/:categoryId/:videoId' element={<Video6 />} /> 
         <Route path='/video7/:categoryId/:videoId' element={<Video7 />} /> 
-        <Route path='/video8/:categoryId/:videoId' element={<Video8 />} />   
+        <Route path='/video8/:categoryId/:videoId' element={<Video8 />} /> 
+        <Route path='/video9/:categoryId/:videoId' element={<Video9 />} />   
       </Routes>
     </div>
   );

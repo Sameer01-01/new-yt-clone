@@ -70,12 +70,12 @@ const Feed = () => {
         <h3>Mkbhd</h3>
         <p>900K views - 1 day ago</p>
     </Link>
-    <div className='card'>
+    <Link to={`video9/20/4529`} className='card'>
         <img src={thumbnail9} alt="" />
         <h2>Easy French Toast </h2>
         <h3>Cooking with Sameer</h3>
         <p>3M views - 1 year ago</p>
-    </div>
+    </Link>
     <div className='card'>
         <img src={thumbnail10} alt="" />
         <h2>Pasta and Pizza Easy recepie</h2>
