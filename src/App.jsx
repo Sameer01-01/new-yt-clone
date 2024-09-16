@@ -13,6 +13,13 @@ import Video6 from './Pages/Video/Video6.jsx';
 import Video7 from './Pages/Video/Video7.jsx';
 import Video8 from './Pages/Video/Video8.jsx';
 import Video9 from './Pages/Video/Video9.jsx';
+import Video10 from './Pages/Video/Video10.jsx';
+import Video11 from './Pages/Video/Video11.jsx';
+import Video12 from './Pages/Video/Video12.jsx';
+import Video13 from './Pages/Video/Video13.jsx';
+import Video14 from './Pages/Video/Video14.jsx';
+import Video15 from './Pages/Video/Video15.jsx';
+import Video16 from './Pages/Video/Video16.jsx';
 
 const App = () => {
   const [sidebar, setSidebar] = useState(true); // Define state for sidebar
@@ -30,7 +37,14 @@ const App = () => {
         <Route path='/video6/:categoryId/:videoId' element={<Video6 />} /> 
         <Route path='/video7/:categoryId/:videoId' element={<Video7 />} /> 
         <Route path='/video8/:categoryId/:videoId' element={<Video8 />} /> 
-        <Route path='/video9/:categoryId/:videoId' element={<Video9 />} />   
+        <Route path='/video9/:categoryId/:videoId' element={<Video9 />} />
+        <Route path='/video10/:categoryId/:videoId' element={<Video10 />} />   
+        <Route path='/video11/:categoryId/:videoId' element={<Video11 />} />   
+        <Route path='/video12/:categoryId/:videoId' element={<Video12 />} />   
+        <Route path='/video13/:categoryId/:videoId' element={<Video13 />} />   
+        <Route path='/video14/:categoryId/:videoId' element={<Video14 />} />   
+        <Route path='/video15/:categoryId/:videoId' element={<Video15 />} />   
+        <Route path='/video16/:categoryId/:videoId' element={<Video16 />} />   
       </Routes>
     </div>
   );
