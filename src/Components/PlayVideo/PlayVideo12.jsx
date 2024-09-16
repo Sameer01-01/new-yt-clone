@@ -38,15 +38,15 @@ const PlayVideo12 = () => {
             <p>Channel for tech</p>
             <p>We reviewed tesla chargers</p>
             <hr />
-            <h4>13K Comments</h4>
+            <h4>131K Comments</h4>
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Bob <span>1 day ago</span></h3>
-                    <p>Teslas are overhyped</p>
+                    <h3>Bob Marley<span>1 day ago</span></h3>
+                    <p>Connor the GOAT!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>4</span>
                         <img src={dislike} alt="" />
 
 
@@ -58,11 +58,11 @@ const PlayVideo12 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Goggie<span>1 day ago</span></h3>
-                    <p>Big Fan Mark!!!!</p>
+                    <h3>Trevor<span>1 day ago</span></h3>
+                    <p>Jon Jones one is best</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>24</span>
                         <img src={dislike} alt="" />
                         
 
@@ -75,10 +75,10 @@ const PlayVideo12 = () => {
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Adrian <span>1 day ago</span></h3>
-                    <p>This happened with my car!!!!</p>
+                    <p>Damn</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>245</span>
+                        <span>45</span>
                         <img src={dislike} alt="" />
                         
 
@@ -91,10 +91,10 @@ const PlayVideo12 = () => {
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Moe Lester <span>1 day ago</span></h3>
-                    <p>Missed me??</p>
+                    <p>Hello there!!</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>4K</span>
+                        <span>8K</span>
                         <img src={dislike} alt="" />
                         
 

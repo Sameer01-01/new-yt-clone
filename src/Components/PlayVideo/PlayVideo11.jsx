@@ -12,7 +12,7 @@ const PlayVideo11 = () => {
   return (
     <div className='play-video'>
         <video src={video2} controls autoPlay muted ></video>
-        <h3>Tesla Chargers</h3>
+        <h3>My news channel - Pewdiepie</h3>
         <div className="play-video-info">
             <p>
                 658K Views &bull; 2 years ago 
@@ -36,17 +36,17 @@ const PlayVideo11 = () => {
         </div>
         <div className="vid-description">
             <p>Channel for gaming</p>
-            <p>We reviewed tesla chargers</p>
+            <p>We reviewed my news channel</p>
             <hr />
             <h4>13K Comments</h4>
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
                     <h3>Bob <span>1 day ago</span></h3>
-                    <p>Teslas are overhyped</p>
+                    <p>Hi pewdie</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
-                        <span>244</span>
+                        <span>44</span>
                         <img src={dislike} alt="" />
 
 
@@ -58,8 +58,8 @@ const PlayVideo11 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Goggie<span>1 day ago</span></h3>
-                    <p>Big Fan Mark!!!!</p>
+                    <h3>Goggie<span>5 days ago</span></h3>
+                    <p>Minecraft when??</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>244</span>
@@ -74,8 +74,8 @@ const PlayVideo11 = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Adrian <span>1 day ago</span></h3>
-                    <p>This happened with my car!!!!</p>
+                    <h3>Adrian <span>1 week ago</span></h3>
+                    <p>Hehe</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
                         <span>245</span>
