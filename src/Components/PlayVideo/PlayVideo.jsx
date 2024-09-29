@@ -106,7 +106,7 @@ const PlayVideo = () => {
             <div className='comment'>
                 <img src={user_profile} alt="" />
                 <div>
-                    <h3>Jack Randwa <span>1 day ago</span></h3>
+                    <h3>Jack Papa<span>1 day ago</span></h3>
                     <p>Delete Breeze</p>
                     <div className='comment-action'>
                         <img src={like} alt="" />
