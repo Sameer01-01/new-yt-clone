@@ -17,7 +17,6 @@ const PlayVideo = () => {
             <p>
                 568K Views &bull; 5 days ago 
             </p>
-
             <div>
                 <span><img src={like} alt="" />12K</span>
                 <span><img src={dislike} alt="" />532</span>
