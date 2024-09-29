@@ -15,7 +15,7 @@ const PlayVideo = () => {
         <h3>Valorant Gameplay Edit</h3>
         <div className="play-video-info">
             <p>
-                152K Views &bull; 5 days ago 
+                568K Views &bull; 5 days ago 
             </p>
 
             <div>
