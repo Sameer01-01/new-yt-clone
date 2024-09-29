@@ -8,7 +8,6 @@ import save from '../../assets/save.png'
 import jack from '../../assets/valo.png'
 import user_profile from '../../assets/user_profile.jpg'
 
-
 const PlayVideo = () => {
   return (
     <div className='play-video'>
